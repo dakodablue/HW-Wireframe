@@ -1,2 +1,12 @@
 body {
+width: 960px;
+background: #777;
+}
+div {
+	width: 960px;
+background: #777;
+background-color: #ebebeb
+}
+.section {
+	width: 495px;
 }
